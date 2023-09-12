@@ -1,0 +1,6 @@
+custom/
+resnet50/
+vit/
+vgg/
+*.asv
+*.bak
