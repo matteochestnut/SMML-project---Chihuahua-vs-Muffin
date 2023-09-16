@@ -11,3 +11,5 @@ Libraries used (excluding remove_duplicates.ipynb):
 - numpy 1.24.3
 - matplotlib 3.7.2
 - plotly 5.16.1
+
+Notes: plotly parallel plots are not showing on GitHub
