@@ -1,4 +1,4 @@
-# Statistical methods for machine learning, 2022-2023, Neural Netowrks Project, Matteo Castagna
+# Statistical methods for machine learning, 2022-2023, Neural Networks Project, Matteo Castagna
 
 Libraries used (excluding remove_duplicates.ipynb):
 - tensorflow-macos 2.13.0 
